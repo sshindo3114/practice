@@ -4,7 +4,7 @@
 //
 //  Created by Shota Shindo on 2020/02/15.
 //  Copyright © 2020 Shota Shindo. All rights reserved.
-//
+//  John is from Chicago
 
 import UIKit
 
